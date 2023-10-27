@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Munazza Bagban😊</h1>
-<h3 align="center">Streamlining Development and Operations: The DevOps Journey</h3>
+<h3 align="center">Streamlining Development and Operations: The DevOps Journey♾️ </h3>
 
-- 🌱 I’m currently learning **Terraform, Grafana**
+- 🌱 I’m currently learning **Terraform, Grafana💻 **
 
 - 🤝 I’m looking for help with **DevOps**
 
 - 📝 I regularly write articles on [https://munazza27.hashnode.dev/](https://munazza27.hashnode.dev/)
 
-- 💬 Ask me about **DevOps,AWS**
+- 💬 Ask me about **DevOps,AWS☁️ **
 
 - 📫 How to reach me **munazzabagban27@gmail.com**
 
