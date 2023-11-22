@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munazza Bagban😊</h1>
 <h3 align="center">Streamlining Development and Operations: The DevOps Journey♾️ </h3>
 
-- 🌱 I’m currently learning **Terraform, Grafana💻 **
+- 🌱 I’m currently learning **Terraform , GO Language💻 **
 
 - 🤝 I’m looking for help with **DevOps**
 
